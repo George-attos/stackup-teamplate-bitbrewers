@@ -1,11 +1,14 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# ONLINE QUIZ PLATFORM
+To create a website were online quizes can be held.
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. GEORGE ATTOKKARAN JOSE [https://github.com/George-attos]
+2. GAIL AMINESH [https://github.com/Gailanimesh]
+3. IRIS WILSON
+4. PATRICIA PAUL
+5. MICHEL
 ## Team Id
-Team id here
+bitbrewers
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
