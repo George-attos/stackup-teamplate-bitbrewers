@@ -4,9 +4,9 @@ To create a website were online quizes can be held.
 ## Team members
 1. GEORGE ATTOKKARAN JOSE [https://github.com/George-attos]
 2. GAIL AMINESH [https://github.com/Gailanimesh]
-3. IRIS WILSON
-4. PATRICIA PAUL
-5. MICHEL
+3. IRIS WILSON []
+4. PATRICIA PAUL []
+5. MICHEL []
 ## Team Id
 bitbrewers
 ## Link to product walkthrough
