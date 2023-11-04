@@ -6,7 +6,7 @@ To create a website were online quizes can be held.
 2. GAIL AMINESH [https://github.com/Gailanimesh]
 3. IRIS WILSON [https://github.com/iriswilson2005]
 4. PATRICIA PAUL []
-5. MICHEL []
+5. MICHEL [https://github.com/githubiamhere]
 ## Team Id
 bitbrewers
 ## Link to product walkthrough
